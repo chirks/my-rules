@@ -1,0 +1,8 @@
+payload:
+  - IP-CIDR,152.53.243.160/24,Emby  # 橘子 
+  - DOMAIN-SUFFIX,embymv.link,Emby  # 橘子 
+  - DOMAIN-SUFFIX,xxlb.net,Emby
+  - DOMAIN-SUFFIX,okemby.org,Emby  #okemby
+  - DOMAIN-SUFFIX,mjji.de,Emby
+  - DOMAIN-SUFFIX,carryz.net,国内流量  # CC公益
+  - DOMAIN-SUFFIX,odysseyplus.site,Emby  # 奥德赛
